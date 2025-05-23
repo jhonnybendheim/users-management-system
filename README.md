@@ -67,11 +67,6 @@ npm start
 - Proteção contra injeção SQL
 - Variáveis de ambiente para dados sensíveis
 
-## 🧪 Testes
-Para executar os testes:
-```bash
-npm test
-```
 
 ## 📝 Licença
 Este projeto está sob a licença ISC.
